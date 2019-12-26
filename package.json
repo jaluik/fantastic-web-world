@@ -1,0 +1,30 @@
+{
+  "name": "fantacy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "battery": "webpack-dev-server --open --env.path=battery"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaluik/fantacy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaluik/fantacy/issues"
+  },
+  "homepage": "https://github.com/jaluik/fantacy#readme",
+  "devDependencies": {
+    "css-loader": "^3.4.0",
+    "html-webpack-plugin": "^3.2.0",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.0",
+    "style-loader": "^1.1.2",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  },
+  "dependencies": {}
+}
