@@ -54,3 +54,5 @@ store.subscribe(() => {
 store.changeState({ type: "INCREMENT" });
 store.changeState({ type: "INCREMENT" });
 store.changeState({ type: "INCREMENT" });
+
+// 如果state里面包含的数据量太多太冗杂，reducer业务逻辑就会掺杂在一起，可以尝试把reducer进行拆分
