@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "battery": "webpack-dev-server --open --env.path=battery"
+    "battery": "webpack-dev-server --open --env.path=battery",
+    "waveLoad": "webpack-dev-server --open --env.path=waveLoading"
   },
   "repository": {
     "type": "git",
