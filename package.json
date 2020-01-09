@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "battery": "webpack-dev-server --open --env.path=battery",
-    "waveLoad": "webpack-dev-server --open --env.path=waveLoading"
+    "waveLoad": "webpack-dev-server --open --env.path=waveLoading",
+    "particleButton": "webpack-dev-server --open --env.path=particleButton"
   },
   "repository": {
     "type": "git",
