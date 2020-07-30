@@ -1,4 +1,4 @@
-# fantastic-web-world
+# fantastic-web-world项目
 
 ### npm run battery 可以看到充电效果
 
